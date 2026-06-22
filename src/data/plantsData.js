@@ -122,9 +122,9 @@ export const plants = [
     light: 'semi_shade',
     description: 'Вузькоконічна вічнозелена хвойна з насичено-зеленим забарвленням круглий рік. Не жовтіє взимку.',
     images: [
-      'https://images.unsplash.com/photo-1530968464165-7a1861cbaf9e?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=800&auto=format&fit=crop&q=80',
+      'https://images.pexels.com/photos/34143466/pexels-photo-34143466.jpeg',
+      'https://images.pexels.com/photos/33050664/pexels-photo-33050664.jpeg',
+      'https://images.pexels.com/photos/33050664/pexels-photo-33050664.jpeg',
     ],
     specifications: {
       frostHardiness: 'USDA зона 4 (до -34°C)',
