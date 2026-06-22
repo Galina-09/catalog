@@ -13,9 +13,9 @@ export default function Contacts() {
   };
 
   const contactCards = [
-    { icon: Phone, title: 'Телефон', lines: ['+38 (044) 555-12-34', '+38 (050) 456-78-90'], href: 'tel:+380445551234' },
+    { icon: Phone, title: 'Телефон', lines: [' +38 043 250 94 94', '++38 096 250 94 94'], href: 'tel: +380432509494' },
     { icon: Mail, title: 'Email', lines: ['info@dekoplant.ua', 'wholesale@dekoplant.ua'], href: 'mailto:info@dekoplant.ua' },
-    { icon: MapPin, title: 'Адреса', lines: ['Київська обл., с. Софіївська Борщагівка', 'вул. Садова, 12'], href: null },
+    { icon: MapPin, title: 'Адреса', lines: ['22353, Україна, Вінницька обл., с. Микулинці,  вул. Коцюбинського, 11А'], href: null },
     { icon: Clock, title: 'Графік роботи', lines: ['Пн-Пт: 9:00 — 18:00', 'Сб: 10:00 — 16:00'], href: null },
   ];
 
@@ -157,7 +157,7 @@ export default function Contacts() {
                 </div>
                 <div className="mt-4 font-display text-lg font-semibold text-forest-900">Розплідник «Декоплант»</div>
                 <p className="mt-1 max-w-xs px-4 text-sm text-forest-600">
-                  Київська обл., с. Софіївська Борщагівка, вул. Садова, 12
+                22353, Україна, Вінницька обл., с. Микулинці,  вул. Коцюбинського, 11А
                 </p>
                 <a
                   href="https://maps.google.com/?q=Софіївська+Борщагівка"
