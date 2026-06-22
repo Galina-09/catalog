@@ -347,9 +347,9 @@ export const plants = [
     light: 'sun',
     description: 'Карликова сосна з щільною кроною. Незамінна для кам\u2019янистих садків та схилів.',
     images: [
-      'https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1530968464165-7a1861cbaf9e?w=800&auto=format&fit=crop&q=80',
+      'https://images.pexels.com/photos/10251646/pexels-photo-10251646.jpeg',
+      'https://images.pexels.com/photos/21792126/pexels-photo-21792126.jpeg',
+      'https://images.pexels.com/photos/17241384/pexels-photo-17241384.jpeg',
     ],
     specifications: {
       frostHardiness: 'USDA зона 2 (до -45°C)',
