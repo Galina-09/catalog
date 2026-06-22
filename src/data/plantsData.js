@@ -14,7 +14,7 @@ export const categories = [
     id: 'conifers',
     name: 'Хвойні',
     description: 'Туї, ялини, сосни, ялівці — вічнозелена основа будь-якого ландшафтного композиційного рішення.',
-    image: 'https://images.unsplash.com/photo-1530968464165-7a1861cbaf9e?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.pexels.com/photos/14914411/pexels-photo-14914411.jpeg',
     icon: 'Trees',
   },
   {
@@ -28,7 +28,7 @@ export const categories = [
     id: 'perennials',
     name: 'Багаторічники',
     description: 'Трав\'янисті багаторічники для міксбордерів, альпінаріїв та натуралістичних насаджень.',
-    image: 'https://images.unsplash.com/photo-1466692476868-aef1dfb1e535?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.pexels.com/photos/36867034/pexels-photo-36867034.jpeg',
     icon: 'Sprout',
   },
 ];
