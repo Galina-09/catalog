@@ -51,11 +51,11 @@ export default function Footer() {
           <ul className="space-y-3 text-sm text-forest-200">
             <li className="flex items-start gap-2.5">
               <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-sage-400" />
-              Київська обл., с. Софіївська Борщагівка, вул. Садова, 12
+              22353, Україна, Вінницька обл., с. Микулинці,  вул. Коцюбинського, 11А
             </li>
             <li className="flex items-center gap-2.5">
               <Phone className="h-4 w-4 shrink-0 text-sage-400" />
-              +38 (044) 555-12-34
+               +38 043 250 94 94
             </li>
             <li className="flex items-center gap-2.5">
               <Mail className="h-4 w-4 shrink-0 text-sage-400" />

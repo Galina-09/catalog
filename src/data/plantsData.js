@@ -372,9 +372,9 @@ export const plants = [
     light: 'semi_shade',
     description: 'Мускусна парковая троянда з рясним тривалим цвітінням рожево-лілових квіток в суцвіттях.',
     images: [
-      'https://images.unsplash.com/photo-1496062031456-07b8f162a322?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1597848212624-a19f359057a5?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1525253086316-d0c936c814f8?w=800&auto=format&fit=crop&q=80',
+      'https://images.pexels.com/photos/37368973/pexels-photo-37368973.jpeg',
+      'https://images.pexels.com/photos/17389953/pexels-photo-17389953.jpeg',
+      'https://images.pexels.com/photos/16448935/pexels-photo-16448935.jpeg',
     ],
     specifications: {
       frostHardiness: 'USDA зона 5 (до -28°C)',
