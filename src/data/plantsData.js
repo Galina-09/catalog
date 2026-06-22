@@ -7,7 +7,7 @@ export const categories = [
     id: 'roses',
     name: 'Троянди',
     description: 'Чайно-гібридні, флорибунда, плетисті та паркові троянди від провідних світових селекціонерів.',
-    image: 'https://images.unsplash.com/photo-1515150144380-bca9f1650ed9?w=800&auto=format&fit=crop&q=80',
+    image: 'images/public/images/chajno-gibridni-troyandi-1.jpg',
     icon: 'Flower',
   },
   {
