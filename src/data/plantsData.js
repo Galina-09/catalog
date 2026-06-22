@@ -21,7 +21,7 @@ export const categories = [
     id: 'shrubs',
     name: 'Листяні чагарники',
     description: 'Декоративнолистяні та красивоцветущі чагарники для створення об\'єму та сезонних акцентів.',
-    image: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.pexels.com/photos/8921078/pexels-photo-8921078.jpeg',
     icon: 'Shrub',
   },
   {
