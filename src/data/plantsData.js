@@ -72,9 +72,9 @@ export const plants = [
     light: 'sun',
     description: 'Класична флорибунда з чисто-білими квітами у великих суцвіттях. Дуже рясне та тривале цвітіння.',
     images: [
-      'https://images.unsplash.com/photo-1525253086316-d0c936c814f8?w=800&auto=format&fit=crop&q=80',
+      'https://images.pexels.com/photos/23842549/pexels-photo-23842549.jpeg',
       'https://images.unsplash.com/photo-1496062031456-07b8f162a322?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1597848212624-a19f359057a5?w=800&auto=format&fit=crop&q=80',
+      'https://images.pexels.com/photos/26949134/pexels-photo-26949134.jpeg',
     ],
     specifications: {
       frostHardiness: 'USDA зона 5 (до -28°C)',
@@ -97,9 +97,9 @@ export const plants = [
     light: 'sun',
     description: 'Плетиста троянда з великими рожевими квітами старовинної форми. Ідеальна для пергол та альтанок.',
     images: [
-      'https://images.unsplash.com/photo-1597848212624-a19f359057a5?w=800&auto=format&fit=crop&q=80',
+      'https://images.pexels.com/photos/33438386/pexels-photo-33438386.jpeg',
       'https://images.unsplash.com/photo-1496062031456-07b8f162a322?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1525253086316-d0c936c814f8?w=800&auto=format&fit=crop&q=80',
+      'https://images.pexels.com/photos/37368973/pexels-photo-37368973.jpeg',
     ],
     specifications: {
       frostHardiness: 'USDA зона 6 (до -23°C)',
