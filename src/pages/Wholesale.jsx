@@ -127,7 +127,7 @@ export default function Wholesale() {
             </button>
           </div>
           <div className="relative">
-            <img src="https://images.unsplash.com/photo-1597985168534-8029352b5e7f?w=1200&auto=format&fit=crop&q=80" alt="Доставка рослин" className="aspect-[4/3] w-full rounded-3xl object-cover shadow-card" />
+            <img src="https://images.pexels.com/photos/5230908/pexels-photo-5230908.jpeg" alt="Доставка рослин" className="aspect-[4/3] w-full rounded-3xl object-cover shadow-card" />
           </div>
         </div>
       </section>
