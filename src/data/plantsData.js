@@ -172,9 +172,9 @@ export const plants = [
     light: 'sun',
     description: 'Вузькоколоноподібний ялівець зі сталево-блакитним відтінком хвої. Невибагливий та посухостійкий.',
     images: [
-      'https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1530968464165-7a1861cbaf9e?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&auto=format&fit=crop&q=80',
+      'https://images.pexels.com/photos/33939073/pexels-photo-33939073.jpeg',
+      'https://images.pexels.com/photos/11792993/pexels-photo-11792993.jpeg',
+      'https://images.pexels.com/photos/11429854/pexels-photo-11429854.jpeg',
     ],
     specifications: {
       frostHardiness: 'USDA зона 4 (до -34°C)',
@@ -197,9 +197,9 @@ export const plants = [
     light: 'semi_shade',
     description: 'Ефектна гортензія з великими конусоподібними суцвіттями, що змінюють колір від білого до малинового.',
     images: [
-      'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1597985168534-8029352b5e7f?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&auto=format&fit=crop&q=80',
+      'https://images.pexels.com/photos/27407174/pexels-photo-27407174.jpeg',
+      'https://images.pexels.com/photos/32542697/pexels-photo-32542697.jpeg',
+      'https://images.pexels.com/photos/36072282/pexels-photo-36072282.jpeg',
     ],
     specifications: {
       frostHardiness: 'USDA зона 4 (до -34°C)',
