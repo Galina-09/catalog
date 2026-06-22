@@ -211,7 +211,7 @@ export const plants = [
   },
   {
     id: 'physocarpus-diablo',
-    name: 'Пузыреплодник Diabolo',
+    name: 'Чагарник Diabolo',
     latinName: 'Physocarpus opulifolius Diabolo',
     category: 'shrubs',
     categoryName: 'Листяні чагарники',
@@ -222,9 +222,9 @@ export const plants = [
     light: 'sun',
     description: 'Декоративнолистяний чагарник з насиченим темно-бордовим листям на весь сезон.',
     images: [
-      'https://images.unsplash.com/photo-1597985168534-8029352b5e7f?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=800&auto=format&fit=crop&q=80',
+      'https://images.pexels.com/photos/32328668/pexels-photo-32328668.jpeg',
+      'https://images.pexels.com/photos/17068971/pexels-photo-17068971.jpeg',
+      'https://images.pexels.com/photos/32572739/pexels-photo-32572739.jpeg',
     ],
     specifications: {
       frostHardiness: 'USDA зона 3 (до -40°C)',
