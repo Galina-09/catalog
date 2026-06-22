@@ -147,9 +147,9 @@ export const plants = [
     light: 'semi_shade',
     description: 'Карликова конічна ялина з щільною м\'якою хвоєю. Повільно зростає, ідеальна для альпінаріїв та контейнерів.',
     images: [
-      'https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1530968464165-7a1861cbaf9e?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=800&auto=format&fit=crop&q=80',
+      'https://images.pexels.com/photos/10251646/pexels-photo-10251646.jpeg',
+      'https://images.pexels.com/photos/38184029/pexels-photo-38184029.jpeg',
+      'https://images.pexels.com/photos/35757568/pexels-photo-35757568.jpeg',
     ],
     specifications: {
       frostHardiness: 'USDA зона 2 (до -45°C)',
