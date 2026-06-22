@@ -47,9 +47,9 @@ export const plants = [
     light: 'sun',
     description: 'Чайно-гібридна троянда з великими бурштиново-жовтими квітами. Стійка до хвороб, злегка ароматна, повторне цвітіння протягом сезону.',
     images: [
-      'https://images.unsplash.com/photo-1496062031456-07b8f162a322?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1525253086316-d0c936c814f8?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1597848212624-a19f359057a5?w=800&auto=format&fit=crop&q=80',
+      'https://images.pexels.com/photos/23884605/pexels-photo-23884605.jpeg',
+      'https://images.pexels.com/photos/37368973/pexels-photo-37368973.jpeg',
+      'https://images.pexels.com/photos/37368972/pexels-photo-37368972.jpeg',
     ],
     specifications: {
       frostHardiness: 'USDA зона 6 (до -23°C)',
